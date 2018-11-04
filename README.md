@@ -49,7 +49,10 @@ You need web3 compatible browser:
 
 ## Authors
 
-* **Jaren Lynch** - [JarenL](https://github.com/JarenL)
+* **Jaren Lynch** 
+* **Marlon Johnson** 
+* **Harry Zhang**
+* **Shiyi Li**
 
 ## License
 
